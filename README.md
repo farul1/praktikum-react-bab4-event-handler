@@ -10,17 +10,17 @@ Tujuan dari praktikum ini adalah memahami cara menangani event pada komponen Rea
 praktikum-react-bab4-event-handler/
 │
 ├── 04_event_handler/
-│ ├── index.html
-│ ├── event_handler.js # Versi Functional Component
-│ └── event_handler_class.js # Versi Class Component
+│   ├── index.html
+│   ├── event_handler.js              # Versi Functional Component
+│   └── event_handler_class.js        # Versi Class Component
 │
 ├── Counter_class/
-│ ├── index.html
-│ └── Counter.js # Counter menggunakan Class Component
+│   ├── index.html
+│   └── Counter.js                    # Counter menggunakan Class Component
 │
 └── CounterFunctional/
-├── index.html
-└── CounterFunctional.js # Counter menggunakan Functional Component
+    ├── index.html
+    └── CounterFunctional.js          # Counter menggunakan Functional Component
 
 
 ---
